@@ -11,3 +11,21 @@ git add file-name
 git commit -m "type your message" -- verb + subject
 git push branche-name 
 ```
+
+## Take changes from remote to local
+
+1. git pull
+2. git fetch         -- update only one repository
+3. git remote update -- update all the connection
+4. git clone         -- clone the repository
+
+git pull = git fetch + git merge
+
+## Branch naming commands
+
+1. git checkout -b new branch
+2. git checkout branch-name
+3. git switch 
+4. git merge
+
+git pull = git fetch + git merge
