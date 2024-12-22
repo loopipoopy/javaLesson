@@ -1,5 +1,6 @@
 ## .gitignore
 # Compiled class file
+temp
 *.class
 
 # Log file
