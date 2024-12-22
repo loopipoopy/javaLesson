@@ -21,3 +21,11 @@ git push branche-name
 
 git pull = git fetch + git merge
 
+## Branch naming commands
+
+1. git checkout -b new branch
+2. git checkout branch-name
+3. git switch 
+4. git merge
+
+git pull = git fetch + git merge
